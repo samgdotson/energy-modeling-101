@@ -1,0 +1,25 @@
+name: modeling-101
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - pip
+
+  # science packages
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+
+  # modeling
+  - pypsa
+
+  # visualization
+  - plotly
+  - matplotlib
+  - seaborn
+  - bokeh
+  
+  
+  
+  
