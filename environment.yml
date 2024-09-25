@@ -19,6 +19,9 @@ dependencies:
   - matplotlib
   - seaborn
   - bokeh
+
+  pip:
+    - highspy
   
   
   
