@@ -20,7 +20,7 @@ dependencies:
   - seaborn
   - bokeh
 
-  pip:
+  - pip:
     - highspy
   
   
